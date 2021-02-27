@@ -4,7 +4,7 @@ from lib_proj_base import book,member
 import tkinter.messagebox
 
 library=Library()
-
+#this is a powerful application
 
 def lib_issue(MASTER):
     win1=Toplevel()
